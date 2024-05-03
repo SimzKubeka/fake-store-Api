@@ -15,8 +15,8 @@ Follow these steps to get the project up and running on your local machine:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-repository/your-project.git
-cd your-project
+git clone https://github.com/SimzKubeka/fake-store-Api.git
+cd fake-store-Api\frontend
 ```
 
 ### 2. Install dependencies
